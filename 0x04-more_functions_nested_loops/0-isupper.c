@@ -1,10 +1,9 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * _isupper - checks uppercase
  * @c: parameter
- * Return: Always 0
+ * Return: 0 if successful
  */
 
 int _isupper(int c)
